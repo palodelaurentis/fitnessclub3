@@ -1,0 +1,13 @@
+/* Colores */
+
+$whitesmoke: whitesmoke;
+$black: black;
+
+.frase__texto{ 
+    border: 1px solid darken($whitesmoke, 20%);
+}
+
+
+a:hover{
+    background-color: lighten($black, 20%);
+}

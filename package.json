@@ -1,28 +1,16 @@
 {
-	"name": "ml-for-beginners",
-	"version": "1.0.0",
-	"description": "Web Dev for Beginners - A Curriculum",
-	"main": "index.js",
-	"scripts": {
-		"convert": "node_modules/.bin/docsify-to-pdf"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/microsoft/Web-Dev-For-Beginners.git"
-	},
-	"keywords": [
-		"web",
-		"dev",
-		"development",
-		"curriculum"
-	],
-	"author": "Jen Looper and team",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/microsoft/Web-Dev-For-Beginners/issues"
-	},
-	"homepage": "https://github.com/microsoft/Web-Dev-For-Beginners#readme",
-	"devDependencies": {
-		"docsify-to-pdf": "0.0.5"
-	}
+  "name": "coderh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1",
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {},
+  "description": ""
 }

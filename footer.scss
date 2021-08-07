@@ -1,0 +1,29 @@
+/* footer  */
+
+$medidaMain: 1000px;
+footer{
+	margin-top: 250px;
+	width: 100%;
+	height: ($medidaMain*2);
+	color: whitesmoke;
+	padding:25px;
+	background-image: linear-gradient(to right, black, grey );
+
+
+.containerfooter{ 
+	display: flex;
+	justify-content: space-between;	
+
+}
+
+.information a { 
+	font-family: "Tenor Sans", sans-serif;
+	margin-left: 120px;
+	font-size: 14px;
+	
+}
+.copyright, a { 
+	font-family: "Tenor Sans", sans-serif;
+	font-size: 14px;
+}
+}
